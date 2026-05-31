@@ -1,0 +1,6 @@
+{
+  "name": "Brutalist Copy Studio",
+  "description": "Generator carousel AI untuk menghasilkan copywriting dan ide visual premium, Provocative educational content, dan visual storytelling untuk media sosial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
